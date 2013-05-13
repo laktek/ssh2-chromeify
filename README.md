@@ -2,7 +2,7 @@
 Description
 ===========
 
-An SSH2 client module written in pure JavaScript for [node.js](http://nodejs.org/).
+This is a port of SSH2 client module to use [Chrome's Socket API](http://developer.chrome.com/apps/socket.html) instead of node.js.
 
 Development/testing is done against OpenSSH (6.0 currently).
 
